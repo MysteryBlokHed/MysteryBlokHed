@@ -21,5 +21,5 @@ any other language, so I thought I'd try to fix that as well as add some other
 features that I thought would be useful.
 
 I hadn't actually made a datapack before building this project, and it was also
-my first time doing anything related to parsing text. In spite of that, after
-about 150 commits, I think I made something that datapack developers could find useful.
+my first time doing anything related to parsing text. I'm still adding features
+and fixing bugs, but I think that it's a pretty useful program.
