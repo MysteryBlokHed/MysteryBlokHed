@@ -1,8 +1,5 @@
 # Hello, World!
 
-I accidentally found out that you could make a README for your GitHub profile,
-so that's what I did.
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MysteryBlokHed&theme=dracula)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MysteryBlokHed&theme=dracula&layout=compact)
 
