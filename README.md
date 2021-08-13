@@ -1,7 +1,5 @@
 # Hello, World!
 
-**Note:** I'm going to Toronto for a few days tomorrow, so I won't be active on GitHub.
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MysteryBlokHed&theme=dracula)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MysteryBlokHed&theme=dracula&layout=compact)
 
