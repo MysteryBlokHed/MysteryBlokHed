@@ -1,6 +1,6 @@
 # Hello, World!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MysteryBlokHed&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MysteryBlokHed&theme=dracula&include_all_commits=true)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MysteryBlokHed&theme=dracula&layout=compact)
 
 ## About my projects
