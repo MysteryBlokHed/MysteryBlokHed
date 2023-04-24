@@ -26,3 +26,27 @@ features, I think I've made something that datapack developers could find
 useful.
 
 </details>
+
+### [CyberPatriot](https://github.com/MysteryBlokHed/CyberPatriot)
+
+<details>
+  <summary>Click to view info</summary>
+
+This repository has scripts and checklists for [CyberPatriot](https://www.uscyberpatriot.org),
+a computer defense competiton for middle/high school.
+During the first couple rounds of the competition, I noticed a few actions
+that had to be done (i.e. checking certain Group Policy options or enabling automatic updates)
+that were the exact same process every time.
+Because of that, I wrote a few scripts and shared them with the other teams
+at my school to make it easier for them.
+I guess that publicly sharing tools to help in a competition
+might not be the best play, but...here we are.
+
+While writing these, I learned a decent amount about Bash and PowerShell,
+which should help me build any similar scripts in the future.
+
+It's also probably not a bad thing to have in my portfolio,
+since it shows a decent understanding of Bash and PowerShell
+and has commit dates to go along with it.
+
+</details>
