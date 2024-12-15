@@ -16,3 +16,10 @@ after I had started work on the inference logic that I realized that.
 Speaking of: I've also tried to document the theory/proof behind what my code does on
 [a page in that repo](https://github.com/MysteryBlokHed/cluecards/blob/main/Inference.md).
 Hopefully it's as interesting to read as it was to write.
+
+## My contributions
+
+### [color.js](https://github.com/color-js/color.js)
+
+I've been invited to help maintain this project, along with a handful of some other great developers: <https://github.com/orgs/color-js/people>.
+Most of my work here is on writing and updating typings for TypeScript support.
