@@ -1,7 +1,15 @@
 # Hello, World!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MysteryBlokHed&theme=dracula&include_all_commits=true)  
+<!-- Unfortunately I can't find a better way than this to vertically align two images with GitHub markdown -->
+<table><tr><td valign="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MysteryBlokHed&theme=dracula&include_all_commits=true)
+
+</td><td valign="center">
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MysteryBlokHed&theme=dracula&layout=compact)
+
+</td></tr></table>
 
 ## About my projects
 
