@@ -15,6 +15,9 @@
 
 ### [Cluecards](https://github.com/MysteryBlokHed/cluecards)
 
+<details>
+<summary>Click to read info</summary>
+
 At first I thought this project was actually going to be relatively simple to implement,
 but it actually ended up being quite challenging and fun to do.
 The difficulty here was actually in the discovery of inference methods much more than the code implementation of them.
@@ -29,6 +32,8 @@ I also decided to eventually port the core of the inference logic to Rust (with 
 because I noticed performance issues for a feature to determine the most likely guilty cards
 (since it's essentially just brute-forcing all possible hand arrangements given the current data).
 That was my first time ever using WebAssembly.
+
+</details>
 
 ## My contributions
 
