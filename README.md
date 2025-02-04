@@ -33,6 +33,10 @@ because I noticed performance issues for a feature to determine the most likely 
 (since it's essentially just brute-forcing all possible hand arrangements given the current data).
 That was my first time ever using WebAssembly.
 
+After porting to Rust, I ended up becoming somewhat obsessed with hyper-optimizing my code to run as fast as possible.
+I've managed to make it something like 30&times; faster than it was with the original TypeScript,
+even while adding new and often complex inference methods.
+
 </details>
 
 ## My contributions
