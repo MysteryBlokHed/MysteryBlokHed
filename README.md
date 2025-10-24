@@ -18,22 +18,23 @@
 <details>
 <summary>Click to read info</summary>
 
-At first I thought this project was actually going to be relatively simple to implement,
-but it actually ended up being quite challenging and fun to do.
-The difficulty here was actually in the discovery of inference methods much more than the code implementation of them.
+At first I thought this project was going to be relatively simple to implement,
+but it ended up being pretty challenging (but fun) to do.
+The difficulty here was actually in the discovery of inference methods, rather than their implementation.
 
-This was my first time learing and applying set theory, although it wasn't actually until
-after I had started work on the inference logic that I realized that.
-Speaking of: I've also tried to document the theory/proof behind what my code does on
+This was my first time learing and applying set theory, although it wasn't until
+_after_ I had started work on the inference logic that I realized how much it applied to my work.
+(Speaking of: I've also tried to document the theory/proof behind what my code does on
 [a page in that repo](https://github.com/MysteryBlokHed/cluecards/blob/main/Inference.md).
-Hopefully it's as interesting to read as it was to write.
+Hopefully it's as interesting to read as it was to write!)
 
-I also decided to eventually port the core of the inference logic to Rust (with WebAssembly),
+I also decided to evenually port the core of the inference logic to Rust (via WebAssembly),
 because I noticed performance issues for a feature to determine the most likely guilty cards
-(since it's essentially just brute-forcing all possible hand arrangements given the current data).
-That was my first time ever using WebAssembly.
+(since it just brute-forces all possible hand arrangements given the current data).
+That was my first time using WASM.
 
-After porting to Rust, I ended up becoming somewhat obsessed with hyper-optimizing my code to run as fast as possible.
+After the initial port to Rust and the performance improvements that brought,
+I started trying to to optimize my code way more.
 I've managed to make it something like 30&times; faster than it was with the original TypeScript,
 even while adding new and often complex inference methods.
 
